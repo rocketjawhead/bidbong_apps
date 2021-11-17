@@ -1,0 +1,6 @@
+{
+  "name": "config",
+  "devDependencies": {
+    "@types/config": "0.0.36"
+  }
+}

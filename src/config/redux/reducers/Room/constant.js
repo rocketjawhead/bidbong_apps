@@ -1,0 +1,9 @@
+const actionTypes = {
+  SET_ALL_ROOM: 'SET_ALL_ROOM',
+  SET_LIST_ROOM: 'SET_LIST_ROOM',
+  CLEAR_LIST_ROOM: 'CLEAR_LIST_ROOM',
+  SET_DETAIL_ROOM: 'SET_DETAIL_ROOM',
+  SET_WAITING_ROOM: 'SET_WAITING_ROOM',
+};
+
+export default actionTypes;

@@ -1,0 +1,1256 @@
+{
+  "page": {
+    "checkout": {
+      "en": "Checkout"
+    },
+    "reservation": {
+      "en": "Reservation"
+    }
+  },
+  "resetPassword": {
+    "title": {
+      "en": "Please re-create your"
+    },
+    "subtitle": {
+      "en": "New Password"
+    },
+    "button": {
+      "en": "Change Password"
+    }
+  },
+  "paymentStatus": {
+    "waitingForPayment": {
+      "en": "Waiting for payment"
+    },
+    "paymentExpired": {
+      "en": "Payment Expired"
+    },
+    "paymentPaid": {
+      "en": "Payment Paid"
+    },
+    "pendingPayment": {
+      "en": "Pending Payment"
+    },
+    "paymentConfirmed": {
+      "en": "Payment Confirmed"
+    },
+    "onOrder": {
+      "en": "On Order"
+    },
+    "orderConfirmed": {
+      "en": "Order Confirmed"
+    },
+    "packing": {
+      "en": "Packing on Warehouse"
+    },
+    "deliver": {
+      "en": "Item on Delivery"
+    },
+    "arrived": {
+      "en": "Item Arrived"
+    },
+    "finish": {
+      "en": "Finish"
+    }
+  },
+  "form": {
+    "awb": {
+      "trackNum": {
+        "en": " Tracking Number"
+      },
+      "expeditionName": {
+        "en": "Expedition Name"
+      }
+    },
+    "notes": {
+      "passLowerCase": {
+        "en": "The password must contain at least 1 lowercase alphabetical character"
+      },
+      "passUperCase": {
+        "en": "The password must contain at least 1 uppercase alphabetical character"
+      },
+      "passNumeric": {
+        "en": "The password must contain at least 1 numeric character"
+      },
+      "isRequired": {
+        "en": "This field is required",
+        "id": "Input harus di isi"
+      },
+      "recipientNameIsRequired": {
+        "en": "Name is required",
+        "id": "Nama harus diisi"
+      },
+      "recipientNoIsRequired": {
+        "en": "Number is required",
+        "id": "Nomor harus diisi"
+      },
+      "recipientNoteIsRequired": {
+        "en": "Message is required",
+        "id": "Pesan harus diisi"
+      },
+      "recipientNameAlphabetOnly": {
+        "en": "The recipient's name only uses the alphabetical",
+        "id": "Nama penerima hanya menggunakan alphabetical"
+      },
+      "recipientPhoneNumberOnly": {
+        "en": "Phone should only contain numbers",
+        "id": "Nomor Telepon hanya boleh diisi dengan angka"
+      },
+      "budget": {
+        "en": "Budget should be multiple of Rp5.000",
+        "id": "Budget harus merupakan kelipatan dari Rp5.000"
+      },
+      "budgetOverCapacity": {
+        "en": "Total Price has exceeded your budget",
+        "id": "Total harga melebihi budget anda!"
+      },
+      "passwordFormat": {
+        "en": "Password must contain 1 uppercase and 1 numeric",
+        "id": "Password harus menggunakan setidaknya 1 huruf besar dan 1 angka"
+      },
+      "passwordLength": {
+        "en": "Password should have minimum 6 characters",
+        "id": "Kata sandi kamu minimal harus berisi 8 karatker"
+      },
+      "emailFormat": {
+        "en": "your email format is invalid",
+        "id": "format email kamu masih salah"
+      },
+      "addressValidation": {
+        "en": "Oops, you haven't filled in the shipping address yet. (Writing only uses alphanumeric and., /)",
+        "id": "Ups, kamu belum mengisi alamat pengiriman, nih. (Penulisan hanya menggunakan alfanumerik dan .,/)"
+      }
+    }
+  },
+  "popup": {
+    "title": {
+      "default": {
+        "en": "Ops, something wrong."
+      },
+      "successJoin": {
+        "en": "Welcome"
+      },
+      "success": {
+        "en": "Horayy"
+      },
+      "successUpdateProdile": {
+        "en": "Horayy"
+      },
+      "successDelete": {
+        "en": "So sad.."
+      },
+      "successUpdate": {
+        "en": "User updated"
+      },
+      "paymentSuccess": {}
+    },
+    "desc": {
+      "default": {
+        "en": "Sorry, something wrong, please try again."
+      },
+      "successJoin": {
+        "en": "Welcome to the game people"
+      },
+      "successUpdateProdile": {
+        "en": "Your profile is success update"
+      },
+      "successDelete": {
+        "en": "User has been deleted."
+      },
+      "successDeleteRoom": {
+        "en": "Room has been deleted."
+      },
+      "successUpdateRoom": {
+        "en": "Room has been updated."
+      },
+      "successUpdated": {
+        "en": "User has been updated."
+      },
+      "enterStartDate": {
+        "en": "You must enter start date first"
+      },
+      "typeKey": {
+        "en": "You must fill your type key"
+      },
+      "productImage": {
+        "en": "You must fill your product image"
+      },
+      "productName": {
+        "en": "You must fill your product name"
+      },
+      "desc": {
+        "en": "You must fill your product description"
+      },
+      "startDate": {
+        "en": "You must fill your start date"
+      },
+      "endDate": {
+        "en": "You must fill your end date"
+      },
+      "startTime": {
+        "en": "You must fill your start time"
+      },
+      "endTime": {
+        "en": "You must fill your end time"
+      },
+      "price": {
+        "en": "You must fill your product price"
+      },
+      "bidder": {
+        "en": "You must fill your max bidder"
+      }
+    },
+    "button": {
+      "ok": {
+        "en": "Oke."
+      },
+      "cancel": {
+        "en": "Cancel."
+      },
+      "toProfile": {
+        "en": "Go to Profile"
+      }
+    }
+  },
+  "component": {
+    "auctionEndTime": {
+      "en": "Auction Ends"
+    },
+    "auctionStartTime": {
+      "en": "Auction Start"
+    },
+    "startBid": {
+      "en": "Start bid"
+    },
+    "price": {
+      "en": "Price :"
+    },
+    "currentBid": {
+      "en": "Current Bid"
+    },
+    "currentPrice": {
+      "en": "Current Price"
+    },
+    "higherBid": {
+      "en": "Higher Bid"
+    },
+    "door": {
+      "wood": {
+        "en": "Wooden Door"
+      },
+      "silver": {
+        "en": "Silver Door"
+      },
+      "gold": {
+        "en": "Gold Door"
+      },
+      "diamond": {
+        "en": "Diamond Door"
+      }
+    },
+    "status": {
+      "open": {
+        "en": "Open Sale"
+      },
+      "scheduled": {
+        "en": "Scheduled"
+      },
+      "finish": {
+        "en": "Finish"
+      }
+    }
+  },
+  "key": {
+    "wood": {
+      "en": "Wooden"
+    },
+    "silver": {
+      "en": "Silver"
+    },
+    "gold": {
+      "en": "Gold"
+    },
+    "diamond": {
+      "en": "Diamond"
+    }
+  },
+  "navbar": {
+    "home": {
+      "en": "Home"
+    },
+    "store": {
+      "en": "Store"
+    },
+    "profile": {
+      "en": "Profile"
+    }
+  },
+  "login": {
+    "title": {
+      "en": "Log in to start"
+    },
+    "subtitle": {
+      "en": "Bidding"
+    },
+    "input": {
+      "email": {
+        "en": "Email"
+      },
+      "password": {
+        "en": "Password"
+      }
+    },
+    "text": {
+      "forgotPassword": {
+        "en": "Forgot Password?"
+      },
+      "dontHaveAccount": {
+        "en": "Don't have account?"
+      }
+    },
+    "button": {
+      "signin": {
+        "en": "Sign In"
+      },
+      "signup": {
+        "en": " Sign Up"
+      }
+    }
+  },
+  "register": {
+    "title": {
+      "en": "Let's join to our"
+    },
+    "subtitle": {
+      "en": "BidBod Community"
+    },
+    "input": {
+      "fullname": {
+        "en": "Fullname"
+      },
+      "password": {
+        "en": "Password"
+      },
+      "phone": {
+        "en": "Phone number"
+      },
+      "email": {
+        "en": "Email"
+      },
+      "confirmPassword": {
+        "en": "Confirm Password"
+      }
+    },
+    "text": {
+      "haveAccount": {
+        "en": "Already have an account? "
+      }
+    },
+    "button": {
+      "signin": {
+        "en": "Sign In"
+      },
+      "signup": {
+        "en": "Sign Up"
+      }
+    }
+  },
+  "forgotPassword": {
+    "title": {
+      "en": "Let us help you"
+    },
+    "subtitle": {
+      "en": "Reset Password"
+    },
+    "input": {
+      "email": {
+        "en": "Email"
+      }
+    },
+    "button": {
+      "send": {
+        "en": "Send Reset Password Confirmation"
+      }
+    }
+  },
+  "OTP": {
+    "title": {
+      "en": "Hey, we just send you OTP"
+    },
+    "substitle": {
+      "en": "to your phone number"
+    },
+    "button": {
+      "send": {
+        "en": "Verify code"
+      },
+      "resend": {
+        "en": "Resend"
+      },
+      "send": {
+        "en": "Send Reset Password Confirmation"
+      }
+    },
+    "text": {
+      "dontReceiveCode": {
+        "en": "Didn't receive the code?"
+      }
+    }
+  },
+  "home": {
+    "title": {
+      "en": "Hi!"
+    },
+    "subtitle": {
+      "en": "Ready to bid today?"
+    },
+    "text": {
+      "pickItem": {
+        "en": "Pick your dream item’s"
+      },
+      "startBid": {
+        "en": "Start bid"
+      },
+      "bidderEnrolled": {
+        "en": "bidder enrolled"
+      },
+      "roomongame": {
+        "en": "Room on Game"
+      },
+      "lockCard": {
+        "en": "Finish your order to\nunlock room"
+      }
+    },
+    "door": {
+      "wood": {
+        "en": "WOOD DOOR"
+      },
+      "silver": {
+        "en": "SILVER DOOR"
+      },
+      "gold": {
+        "en": "GOLD DOOR"
+      },
+      "diamond": {
+        "en": "DIAMOND DOOR"
+      }
+    }
+  },
+  "store": {
+    "title": {
+      "en": "Store"
+    },
+    "text": {
+      "total": {
+        "en": "Total : "
+      }
+    },
+    "key": {
+      "wood": {
+        "en": "Wooden Key"
+      },
+      "silver": {
+        "en": "Silver Key"
+      },
+      "gold": {
+        "en": "Gold Key"
+      },
+      "diamond": {
+        "en": "Diamond Key"
+      }
+    },
+    "button": {
+      "buy": {
+        "en": "Buy"
+      },
+      "pay": {
+        "en": "Go to Payment"
+      }
+    }
+  },
+  "profile": {
+    "title": {
+      "en": "Profile"
+    },
+    "subtitle": {
+      "en": "Edit Profile"
+    },
+    "text": {
+      "tandc": {
+        "en": "Terms and Conditions"
+      },
+      "help": {
+        "en": "Help Center"
+      },
+      "totalWin": {
+        "en": "Total wins"
+      }
+    },
+    "button": {
+      "logout": {
+        "en": "Logout"
+      }
+    }
+  },
+  "editProfile": {
+    "title": {
+      "en": "Edit Profile"
+    },
+    "subtitle": {
+      "en": "Personal Info"
+    },
+    "placeholder": {
+      "firstname": {
+        "en": "Firstname"
+      },
+      "lastname": {
+        "en": "Lastname"
+      },
+      "email": {
+        "en": "Email"
+      },
+      "password": {
+        "en": "Password"
+      },
+      "phone": {
+        "en": "Phone Number"
+      }
+    },
+    "button": {
+      "show": {
+        "en": "Show"
+      },
+      "save": {
+        "en": "Save Profile"
+      }
+    }
+  },
+  "createPost": {
+    "title": {
+      "en": "Create Post"
+    },
+    "text": {
+      "selectDoorType": {
+        "en": "Select door type"
+      },
+      "fillItem": {
+        "en": "Fill item's detail"
+      }
+    },
+    "button": {
+      "photo": {
+        "en": "Photo"
+      },
+      "save": {
+        "en": "Upload Post"
+      }
+    },
+    "input": {
+      "title": {
+        "en": "Post title"
+      },
+      "information": {
+        "en": "Additional information"
+      },
+      "startBid": {
+        "en": "Price Item (starting price)"
+      },
+      "shipping": {
+        "en": "Shipping/Delivery Price"
+      },
+      "startDate": {
+        "en": "Date start"
+      },
+      "endDate": {
+        "en": "Date close"
+      },
+      "startTime": {
+        "en": "Time start"
+      },
+      "endTime": {
+        "en": "Time close"
+      },
+      "bidder": {
+        "en": "bidder"
+      }
+    }
+  },
+  "bidRoom": {
+    "text": {
+      "bidder": {
+        "en": "Bidder"
+      },
+      "currentBid": {
+        "en": "Current Bid"
+      },
+      "emptyState": {
+        "en": "It’s your chance, make a first bid by \ntapping the button below"
+      },
+      "iwill": {
+        "en": "I wil bid for :"
+      }
+    },
+    "button": {
+      "placeBid": {
+        "en": "Bid"
+      }
+    }
+  },
+  "checkout": {
+    "title": {
+      "en": "Checkout"
+    },
+    "text": {
+      "shipping": {
+        "en": "Shipping"
+      },
+      "paymentMethod": {
+        "en": "Payment Method"
+      },
+      "productItem": {
+        "en": "Product Item"
+      },
+      "price": {
+        "en": "Price :"
+      },
+      "totalCost": {
+        "en": "Total Cost :"
+      },
+      "shippingCost": {
+        "en": "Shipping Cost"
+      },
+      "fillCountry": {
+        "en": "Fill the shipping form first"
+      },
+      "filledCountry": {
+        "en": "Deliver to {name}"
+      }
+    },
+    "input": {
+      "firstname": {
+        "en": "First Name"
+      },
+      "lastname": {
+        "en": "Lastname"
+      },
+      "email": {
+        "en": "Email"
+      },
+      "phone": {
+        "en": "Phone Number"
+      },
+      "address": {
+        "en": "Address"
+      },
+      "city": {
+        "en": "City"
+      },
+      "state": {
+        "en": "State"
+      },
+      "zipcode": {
+        "en": "ZIP/Post Code"
+      },
+      "country": {
+        "en": "Country"
+      }
+    },
+    "button": {
+      "next": {
+        "en": "Pay Now"
+      },
+      "selectPayment": {
+        "en": "Select Payment"
+      },
+      "select": {
+        "en": "Select"
+      }
+    },
+    "modal": {
+      "shipping": {
+        "en": "Country"
+      },
+      "title": {
+        "paymentSuccess": {
+          "en": "Horayy"
+        }
+      },
+      "desc": {
+        "paymentSuccess": {
+          "en": "Your payment was successful, wait for the confirmation from the admin"
+        },
+        "paymentKeySuccess": {
+          "en": "Your key has been added, enjoy playing"
+        }
+      }
+    }
+  },
+  "modalPlaceBid": {
+    "title": {
+      "en": "Place a bid"
+    },
+    "button": {
+      "en": "Place bid"
+    }
+  },
+  "payment": {
+    "title": {
+      "en": "Payment Method"
+    },
+    "button": {
+      "en": "Set Payment"
+    }
+  },
+  "modalMakeWinner": {
+    "title": {
+      "en": "Are you sure ?"
+    },
+    "makeWinnerFor": {
+      "en": "Make a win for"
+    },
+    "sure": {
+      "en": "yes, i'm sure"
+    }
+  },
+  "modalAction": {
+    "title": {
+      "en": "Action"
+    },
+    "winner": {
+      "en": "Make a win "
+    },
+    "blok": {
+      "en": "Block this user"
+    }
+  },
+  "statusBid": {
+    "title": {
+      "en": "Time’s up and the admin has determine"
+    },
+    "success": {
+      "title": {
+        "en": "Congratulations!"
+      },
+      "subtitle": {
+        "en": "You won the bid for"
+      },
+      "text": {
+        "desc": {
+          "en": "Pay now and get your stuff as soon as possible"
+        }
+      },
+      "button": {
+        "en": "Go to checkout"
+      }
+    },
+    "failed": {
+      "title": {
+        "en": "Uh oh,"
+      },
+      "subtitle": {
+        "en": "You haven’t been lucky"
+      },
+      "text": {
+        "desc": {
+          "en": "Let’s find another cool stuff in other rooms"
+        }
+      },
+      "button": {
+        "en": "See more rooms"
+      }
+    }
+  },
+  "dashboard": {
+    "title": {
+      "en": "Welcome to the game"
+    },
+    "subtitle": {
+      "en": "Admin"
+    },
+    "text": {
+      "empty": {
+        "en": "Relax, the room is preparing something cool"
+      },
+      "totalBidder": {
+        "en": "Total Bidder per Day"
+      },
+      "totalDownload": {
+        "en": "Total App Download"
+      },
+      "totalRoom": {
+        "en": "Total Room Created"
+      },
+      "status": {
+        "open": {
+          "en": "Open Sale"
+        },
+        "scheduled": {
+          "en": "Scheduled"
+        },
+        "finish": {
+          "en": "Finish"
+        }
+      },
+      "emptyState": {
+        "en": "The rooms you have created, will be displayed here.\n\n Tap + to start create a room"
+      },
+      "emptyStateHistory": {
+        "en": "No history bidder yet"
+      },
+      "startBid": {
+        "en": "Start : "
+      },
+      "endBid": {
+        "en": "End : "
+      },
+      "enrolled": {
+        "en": "Enrolled by {name} users"
+      }
+    },
+    "button": {
+      "logout": {
+        "en": "Logout"
+      },
+      "manageKey": {
+        "en": "Manage Game’s Key"
+      },
+      "manageShip": {
+        "en": "Manage Shipping Cost"
+      }
+    },
+    "modal": {
+      "text": {
+        "en": "What will you do for this room?"
+      },
+      "buttonEdit": {
+        "en": "Edit Room"
+      },
+      "buttonDelete": {
+        "en": "Delete Room"
+      }
+    }
+  },
+  "reservation": {
+    "text": {
+      "itemOnSale": {
+        "en": "Item's on Sale"
+      }
+    },
+    "button": {
+      "desc": {
+        "en": "See item’s desciption"
+      },
+      "bidder": {
+        "en": "Bidder"
+      },
+      "reservation": {
+        "en": "Make Reservation"
+      },
+      "leave": {
+        "title": {
+          "en": "Leave Game"
+        },
+        "subtitle": {
+          "en": "You can’t rejoin until the games ends"
+        }
+      }
+    },
+    "modal": {
+      "title": {
+        "desc": {
+          "en": "Description"
+        },
+        "bidder": {
+          "en": "List Bidder"
+        }
+      },
+      "text": {
+        "emptyState": {
+          "en": "Be the first bidder in this room.\nMake a reservation now!"
+        }
+      }
+    },
+    "footer": {
+      "booked": {
+        "title": {
+          "en": "You already reserve for this room."
+        },
+        "desc": {
+          "en": "Will be notify when it’s ready"
+        }
+      },
+      "locked": {
+        "title": {
+          "en": "Finish your recent transaction."
+        },
+        "desc": {
+          "en": "The room will be unlocked"
+        }
+      }
+    }
+  },
+  "totalBidder": {
+    "text": {
+      "totalBidder": {
+        "en": "{name} Total Bidder"
+      },
+      "lastWinner": {
+        "en": "Last winner"
+      },
+      "bidder": {
+        "en": "Bidder"
+      }
+    }
+  },
+  "totalRoom": {
+    "text": {
+      "totalRoom": {
+        "en": "{name} in total room created"
+      }
+    }
+  },
+  "detailBidRoom": {
+    "text": {
+      "bidder": {
+        "en": "BIDDER"
+      },
+      "makeWinner": {
+        "en": "Make a win"
+      },
+      "startBid": {
+        "en": "Start : {name}"
+      },
+      "endBid": {
+        "en": "End : {name}"
+      },
+      "emptyState": {
+        "en": "Take your coffee, sometimes waiting will \nnot end in vain"
+      },
+      "winner": {
+        "en": "Winner"
+      },
+      "waitingUserFillAddress": {
+        "en": "Wait for the winner to fill out the checkout forms, then you can process the order"
+      },
+      "setStatus": {
+        "en": "Set Status"
+      }
+    },
+    "button": {
+      "showMoreBidder": {
+        "en": "Show more bidder"
+      }
+    }
+  },
+  "manageKey": {
+    "title": {
+      "en": "Manage Game’s Key"
+    },
+    "key": {
+      "wood": {
+        "en": "Wooden Key"
+      },
+      "silver": {
+        "en": "Silver Key"
+      },
+      "gold": {
+        "en": "Gold Key"
+      },
+      "diamond": {
+        "en": "Diamond Key"
+      }
+    },
+    "input": {
+      "price": {
+        "en": "New Price (in Euro)"
+      }
+    },
+    "button": {
+      "save": {
+        "en": "Update new price"
+      }
+    },
+    "popup": {
+      "update": {
+        "success": {
+          "title": {
+            "en": "Yeay!"
+          },
+          "desc": {
+            "en": "Update key succeeded"
+          }
+        }
+      }
+    }
+  },
+  "manageShipping": {
+    "title": {
+      "en": "Manage Shipping Cost"
+    },
+    "add": {
+      "en": "Add"
+    },
+    "input": {
+      "price": {
+        "en": "New Price (in Euro)"
+      },
+      "country": {
+        "en": "Country"
+      },
+      "search": {
+        "en": "Search"
+      }
+    },
+    "text": {
+      "next": {
+        "en": "Next>>"
+      },
+      "prev": {
+        "en": "<<Prev"
+      },
+      "empty": {
+        "en": "Not found in search results, try find with \nother keywords."
+      }
+    },
+    "button": {
+      "save": {
+        "en": "Update new price"
+      },
+      "add": {
+        "en": "Save"
+      }
+    },
+    "popup": {
+      "update": {
+        "success": {
+          "title": {
+            "en": "Yeay!"
+          },
+          "desc": {
+            "en": "Update key succeeded"
+          }
+        }
+      }
+    }
+  },
+  "cart": {
+    "title": {
+      "en": "Your Cart"
+    },
+    "text": {
+      "status": {
+        "en": "Status : "
+      }
+    },
+    "status": {
+      "finish": {
+        "en": "Finished"
+      },
+      "deliver": {
+        "en": "Item's on Delivery"
+      },
+      "confirm": {
+        "en": "Order confirmed"
+      },
+      "paymentConfirmation": {
+        "en": "Payment Confirmation"
+      },
+      "waiting": {
+        "en": "Waiting for payment"
+      }
+    },
+    "button": {
+      "seeDetail": {
+        "en": "See detail"
+      },
+      "selectPayment": {
+        "en": "Selecet payment method"
+      }
+    },
+    "empty": {
+      "title": {
+        "en": "Your cart is empty"
+      },
+      "subtitle": {
+        "en": "Get some amazing products"
+      },
+      "button": {
+        "en": "Start bidding"
+      }
+    }
+  },
+  "trxDetail": {
+    "title": {
+      "en": "Transaction Detail"
+    },
+    "text": {
+      "shipping": {
+        "en": "Shipping"
+      },
+      "payment": {
+        "en": "Payment"
+      },
+      "paymentMethod": {
+        "en": "Payment Method"
+      },
+      "paymentType": {
+        "en": "Visa / Mastercard / Amex"
+      },
+      "firstname": {
+        "en": "Firstname"
+      },
+      "lastname": {
+        "en": "Lastname"
+      },
+      "email": {
+        "en": "Email"
+      },
+      "phonenumber": {
+        "en": "Phone Number"
+      },
+      "address": {
+        "en": "Address"
+      },
+      "city": {
+        "en": "City"
+      },
+      "state": {
+        "en": "State"
+      },
+      "zipcode": {
+        "en": "ZIP/Post Code"
+      },
+      "country": {
+        "en": "Country"
+      },
+      "needHelp": {
+        "en": "Need Help? Contact Us"
+      }
+    }
+  },
+  "splashscreen": {
+    "button": {
+      "en": "Get stated"
+    }
+  },
+  "notification": {
+    "title": {
+      "en": "Notifications"
+    },
+    "empty": {
+      "title": {
+        "en": "It seems like you haven't notifications yet"
+      }
+    }
+  },
+  "CreateUser": {
+    "title": {
+      "en": "Create admin account"
+    },
+    "button": {
+      "showAll": {
+        "en": "Show all admin account"
+      },
+      "save": {
+        "en": "Save and procced"
+      }
+    },
+    "text": {
+      "fillItem": {
+        "en": "Fill item's detail"
+      }
+    },
+    "input": {
+      "fullname": {
+        "en": "Fullname"
+      },
+      "phone": {
+        "en": "Phone Number"
+      },
+      "email": {
+        "en": "Email"
+      },
+      "password": {
+        "en": "Password"
+      },
+      "confirmPassword": {
+        "en": "Confirm Password"
+      }
+    }
+  },
+  "AdminAccount": {
+    "title": {
+      "en": "{name} Total admin account"
+    },
+    "text": {
+      "fullname": {
+        "en": "Fullname"
+      },
+      "email": {
+        "en": "Email"
+      },
+      "phonenumber": {
+        "en": "Phone Number"
+      }
+    },
+    "modal": {
+      "text": {
+        "confirm": {
+          "en": "Are you sure ?"
+        },
+        "delete": {
+          "en": "Delete this account"
+        },
+        "cant": {
+          "en": "Sorry you can’t delete"
+        },
+        "lastUser": {
+          "en": "There must be at least one admin account"
+        },
+        "sameUser": {
+          "en": "You cant delete your self."
+        }
+      }
+    },
+    "button": {
+      "okey": {
+        "en": "Okey"
+      }
+    }
+  },
+  "editProfileAdmin": {
+    "title": {
+      "en": "Edit admin account"
+    },
+    "text": {
+      "fillItem": {
+        "en": "Fill item's detail"
+      }
+    },
+    "input": {
+      "fullname": {
+        "en": "Fullname"
+      },
+      "phone": {
+        "en": "Phone Number"
+      },
+      "email": {
+        "en": "Email"
+      },
+      "password": {
+        "en": "Password"
+      },
+      "confirmPassword": {
+        "en": "Confirm Password"
+      }
+    },
+    "button": {
+      "showAll": {
+        "en": "Show all admin account"
+      },
+      "save": {
+        "en": "Save and procced"
+      }
+    }
+  }
+}

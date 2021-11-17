@@ -1,0 +1,22 @@
+{
+  "workbench.colorTheme": "Night Owl",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.tabSize": 2,
+  // "[javascript]": {
+  //   "editor.defaultFormatter": "esbenp.prettier-vscode"
+  // },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+  },
+  "editor.autoClosingBrackets": "always",
+  "editor.autoClosingQuotes": "always",
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "javascript.suggest.autoImports": false,
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "files.associations": {},
+}

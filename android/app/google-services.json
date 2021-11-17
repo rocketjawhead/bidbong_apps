@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "21253892510",
+    "firebase_url": "https://auction-bid-57c02.firebaseio.com",
+    "project_id": "auction-bid-57c02",
+    "storage_bucket": "auction-bid-57c02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21253892510:android:4a9f02656a1b731eff4e8f",
+        "android_client_info": {
+          "package_name": "com.bidbong_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21253892510-o20qdok4fi36e4o3co4sfh1j91ivuudt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9HhYbEx83qeHIkd991jZa2q7O_6TYoD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21253892510-o20qdok4fi36e4o3co4sfh1j91ivuudt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "21253892510-j9kmpulvsap335oppqh058s1jfmp60no.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bidbong-mobile"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
